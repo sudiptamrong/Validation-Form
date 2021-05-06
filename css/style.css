@@ -85,6 +85,11 @@ button, input, textarea, i{
 	border-bottom: 3px solid #f39b51;
 }
 
+.active {
+    color: #f39b51;
+    border-bottom: 3px solid #f39b51;
+}
+
 .sign-in:active, 
 .sign-up:active,
 .sign-in:focus, 
